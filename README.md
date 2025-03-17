@@ -1,2 +1,9 @@
-# workable-colab
-This collection is a set of working Colab notebooks on topics like AI, machine learning, reinforcement learning, and research papers with code. "Working" means that each notebook is already set up with the non-out-of-date environment, non-deprecated packages, and hardware.
+我们衷心感谢所有研究人员及开源社区的支持。软件领域始终面临着维护与兼容性的挑战。尽管我们拥有许多宝贵的代码资源，但部分经典代码因缺乏持续维护等原因而逐渐被淘汰。虽然每位学习者都需要经历环境配置这一必经过程，我们仍然期望尽可能地减少相关麻烦。
+
+在环境配置过程中，常常出现以下问题：一方面，需求文件中部分包未明确指定版本，导致随着版本更新而产生依赖冲突；另一方面，一些模型的检查点存在兼容性问题。
+
+本项目旨在修复这些依赖问题，并将相关代码迁移至Colab环境中。为实现该目标，我们可以使用一个或同时使用以下方法：
+
+1.明确指定需求文件中各个包的版本；
+2.利用Python uv工具；
+3.采用Docker技术，将环境一并打包到项目中。
