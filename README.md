@@ -2,7 +2,7 @@
 
 We extend our heartfelt gratitude to all researchers and the open-source community for their support. The software field continually faces challenges related to maintenance and compatibility. Despite the availability of many valuable code resources, some classic codes are gradually phased out due to a lack of ongoing maintenance. Although every learner must inevitably go through the process of environment configuration, we aim to minimize the associated hassles as much as possible.
 
-中文文档(https://github.com/hshen13/workable-colab/blob/main/README-zh.md)
+[中文文档](https://github.com/hshen13/workable-colab/blob/main/README-zh.md)
 ## Declaration
 
 This project does not modify the business code in the original repository; it only updates the environment configuration. The project respects all software copyrights of the original authors.
