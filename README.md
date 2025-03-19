@@ -27,3 +27,13 @@ To achieve these goals, we propose the following methods (which can be used indi
 - **Adopt Docker Technology:** Use Docker to package the entire environment, ensuring consistent code operation across any platform.
 
 ## Directory Structure
+
+folder/
+
+└── project's folder/
+    
+    ├── Notebook1.ipynb
+    
+    ├── Notebook2.ipynb
+    
+    └── ...
